@@ -5,4 +5,5 @@ body {
     line-height: 1.5;
     margin: auto;
     max-width: 720px;
+    padding: 0 16px 16px 16px;
 }
